@@ -5,44 +5,18 @@ This is the repository for the LinkedIn Learning course `Getting Started with Vi
 
 ## Course Description
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
-
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
-
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
-
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
-
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
-
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+Stop waiting for IT to build your dream app—learn how to guide AI and make it code for you instead! In this course, learn how to create powerful tools that solve real workplace problems without needing to be a tech wizard yourself. Your new apps will have simple screens that anyone at work can use. Check out this course to find out how to turn your best ideas into working apps that connect with your company's existing systems.
 
 ## Instructor
 
-Instructor name
+Dylan Davis
 
-Instructor description
-
-                            
+Enterprise AI Expert | Making Automation Surprisingly Simple                    
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
-
+[lil-course-url]: https://www.linkedin.com/learning/getting-started-with-vibe-coding
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQGPKCk9E0-jjA/learning-public-crop_675_1200/B4EZjEZh5kHoAY-/0/1755641684343?e=2147483647&v=beta&t=4MfeQ-r0w9Ojrru4LRlbdbqEvJphn_AcUZ25r4X-ME8
